@@ -1,0 +1,7 @@
+*****CBGrid by Caroline Begbie****
+**********************************
+
+This grid allows you to specify number of rows, columns and size of row and columns.
+
+Each square is clickable - 0 = no color, 1 = blue, 2 = red. 
+The square colors cycle 0-1-2-0 when clicked.
